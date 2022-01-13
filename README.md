@@ -2,7 +2,7 @@
 
 Requirements: 
 1. Python 2.7+ (due to Stanford Karel's compatibility, for more info, read Stanford Karel's [documentation](https://pypi.org/project/stanfordkarel/))
-2. Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html), demo was done with v4.2.2 
+2. Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html) and place it in demo folder. Demo was built with StanfordCoreNLP v4.2.2 
 
 Steps to run Karel Demo:
 1. cd demo directory
