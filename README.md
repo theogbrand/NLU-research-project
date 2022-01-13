@@ -22,10 +22,6 @@ Other Example Sentences:
 - "put the diamond to the front of the red box"
 - "put the diamond to the back of the red box"
 
-Refer to messages in terminal for guidelines on usage 
-
-Demo [Video](https://docs.google.com/file/d/1ksZ5U1gsNb1FMD2iWqBt-AWXeAe8sBWc/preview) 
-
-If demo video link doesn't work, access video from slides.pdf, on slide 27
+Demo [Video](https://youtu.be/-6SQTYa9Mlg) 
 
 Refer to README.md in demo directory for more details on how to operate/customise demo
