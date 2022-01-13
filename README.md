@@ -1,7 +1,8 @@
-## NLU System Demo ##
+## True Natural Language Understanding (NLU) System for more humanlike Artificial Intelligence Research Project ##
 
-Requirements: Python 2.7+ (due to Stanford Karel's compatibility)
-for more info, read Stanford Karel's documentation
+Requirements: 
+1. Python 2.7+ (due to Stanford Karel's compatibility, for more info, read Stanford Karel's [documentation](https://pypi.org/project/stanfordkarel/))
+2. Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html), demo was done with v4.2.2 
 
 Steps to run Karel Demo:
 1. cd demo directory
@@ -23,7 +24,7 @@ Other Example Sentences:
 
 Refer to messages in terminal for guidelines on usage 
 
-Demo Video link: https://docs.google.com/file/d/1ksZ5U1gsNb1FMD2iWqBt-AWXeAe8sBWc/preview
+Demo [Video](https://docs.google.com/file/d/1ksZ5U1gsNb1FMD2iWqBt-AWXeAe8sBWc/preview) 
 
 If demo video link doesn't work, access video from slides.pdf, on slide 27
 
