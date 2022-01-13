@@ -5,11 +5,11 @@ Requirements:
 2. Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html) and place it in demo folder. Demo was built with StanfordCoreNLP v4.2.2 
 
 Steps to run Karel Demo:
-1. cd demo directory
-2. run python visualiser.py (triggers Karel demo window to appear) on terminal (not terminal in VSCode)
+1. ```cd demo```
+2. run ```python visualiser.py``` (triggers Karel demo window to appear) on terminal (not terminal in VSCode)
 3. Select "Run Program" on Karel window (triggers terminal prompt: "what should Karel do?")
-4. Basic prompt: "Put the diamond on the green table"
-5. To End demo, input "done" into terminal prompt
+4. Basic prompt: ```"Put the diamond on the green table"```
+5. To End demo, input "```done```" into terminal prompt
 
 Key Capabilities of NLU system:
 Karel is able to pick/place diamonds:
